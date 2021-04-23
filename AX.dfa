@@ -1,0 +1,136 @@
+100
+Sigma:     a
+------------
+    0:    19
+    1:    23
+    2:     4
+    3:     9
+    4:    32
+    5:    76
+    6:    11
+    7:    47
+    8:    67
+    9:    39
+   10:    81
+   11:    56
+   12:    75
+   13:     8
+   14:    69
+   15:    23
+   16:    57
+   17:    11
+   18:     8
+   19:    72
+   20:    35
+   21:    49
+   22:    70
+   23:    66
+   24:    47
+   25:    84
+   26:    26
+   27:    38
+   28:    93
+   29:    33
+   30:     7
+   31:    96
+   32:    24
+   33:    62
+   34:     0
+   35:    51
+   36:    31
+   37:    18
+   38:    24
+   39:    49
+   40:    74
+   41:    26
+   42:    67
+   43:    31
+   44:    80
+   45:    28
+   46:    82
+   47:    30
+   48:    68
+   49:    69
+   50:    74
+   51:    91
+   52:    13
+   53:    32
+   54:    27
+   55:    65
+   56:    30
+   57:    83
+   58:    47
+   59:    24
+   60:    48
+   61:    96
+   62:    27
+   63:    88
+   64:    24
+   65:    43
+   66:    54
+   67:    60
+   68:    84
+   69:    77
+   70:    17
+   71:    26
+   72:    18
+   73:    59
+   74:    94
+   75:    39
+   76:    50
+   77:    85
+   78:     7
+   79:    24
+   80:    69
+   81:    24
+   82:    87
+   83:    50
+   84:    92
+   85:    79
+   86:    97
+   87:    65
+   88:    84
+   89:    17
+   90:    82
+   91:    94
+   92:    70
+   93:    47
+   94:    60
+   95:    32
+   96:     4
+   97:    21
+   98:    69
+   99:     4
+------------
+0: Initial State
+13,26,36,42,51,65,68,72,73: Accepting State(s)
+
+aa
+aaaaaaaaaa
+aaaaaaaaaaaa
+aaaaaaaaaaaa
+aaa
+aaa
+aaaaaaaa
+aa
+aa
+aaaaaaaa
+a
+aaaaaaaaaaaaaaaaa
+aaaaaaaa
+aaaaaaa
+aa
+aaaaaa
+aa
+aaaaaaaa
+aaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aa
+aaaaaaaaaa
+aa
+aa
+aa
+aaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa

@@ -1,0 +1,77 @@
+41
+Sigma:     a     b     c
+------------------------
+    0:     1     2     3
+    1:     4     5     6
+    2:     7     8     3
+    3:     4     9    10
+    4:     4    11     6
+    5:    12    13    14
+    6:     4    15    10
+    7:     4    16     6
+    8:    17    13    14
+    9:    18    13     3
+   10:    19    20    21
+   11:    22     8    14
+   12:    23    16     6
+   13:    24    25    14
+   14:    26     9    10
+   15:    18    13     6
+   16:    22     8    27
+   17:    23    16     6
+   18:     1    16     6
+   19:     1    11     6
+   20:    28    25     3
+   21:    29    30    21
+   22:    26    16     6
+   23:     4     5     6
+   24:    31    32     6
+   25:    33    25    14
+   26:     4    11     6
+   27:    26    15    10
+   28:    34    32     6
+   29:    34    35    36
+   30:    37    25     3
+   31:    34    35    36
+   32:    38    25    27
+   33:    31    32    36
+   34:    34    35    36
+   35:    38    25    14
+   36:     4    39    10
+   37:    34    32    36
+   38:    31    32    36
+   39:    40    13     6
+   40:     1    16     6
+------------------------
+0: Initial State
+0,1,2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19,20,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40: Accepting State(s)
+
+aabaaababbaabbaabbcacbabbaabbbabaabccc
+aabaacbaabaaabacabaacbabbacabaabbaabababbaacabbbaaabbacbaabaabbabbaaabccaaabaacbabbaabbabaaabbcbcc
+aabaacbabaaabbaabbbaaababcaacbbcccbbaaababcababbaabacbbbaabcbabbaabaaabaacbabbbaababbaaababcaacccbbacbaabbaaabaaccbaabaacccaacabacbbaaababccaaabaacbabbaabcbbbaaababcccbc
+aabaacbabbaabbabbaabaccc
+aabbabaacbbaaababbacabaacbabbba
+aabaacbabbbaaababbccaaabaacbabbbaaacbaaabaacccaabaaacababcbaabcacccab
+aabaacbaaabbabcacbabbacabbaabbbaabcbcc
+aabaacbabbaabbaabacababbbaacabaacbaababcccababbaabbacbbabbabaaacabaacbaabbcabbaaabacbaabaabbaaabbcccabcbcc
+bbbaaababaaabbacabaacbaababbbcbccbabbacbaababaabba
+aabaacbabbbabaaabbacca
+aabaaacbaababbbaaababbacabaacbaababbcbbbccababbbaabacbaaabbbabacbabbaabbaaababccbbaaababcaababbaabacbbb
+abaaabaaacbaababbbabaaabbaccabaacbabbbbabaacbaabaaabaacbaaababbaabbaaacccbcabaacbbaacbabbcbabbbaababccaaba
+aabaacbabbaacabbbaabbacbaabaabbabaacc
+aababbaaabaacababbaaabbaabbaaababbacababbcacbbaaaccbacbabbaabbaaababbacbaaabaacbbabbaaababcaababbacbbcccbbaaacc
+aacbaaababbaaababbaabbbaacbacabaacbbaaacabaacbaababbbabcccaabbaacababbaabbaabccbaabaaccbabcacbabbaabbaaabbabacbaaacbbabbacabaacbaababbbbaababcccaccab
+aababbaabbaacabaacbaababcccaababbaabacabaacbaababbbabbaacabbbacccbaabaacabaacbaababbbbaaababcaababbaabbcccbbcaababbaabbabaabbcbccaaabaacbabbaabcbbabaaacccba
+aabaacbabbaabbaaabbcc
+aabaaacbaabaaabaacbabbbabbaacbaabbbaaabaccabaacbabbaabaaabaacbaaababbaacbabbbaabacbaabaaabaacbabbbabbaaabacbaabbabbaaabcc
+aabaaababbaabacbbabbcaacbaababaaabbaabbaaabbacbcbabbbbabaccabaacbaabbacbabaaabbaabbcbaaabaacbbaacccbaabaacabaacbabbcbcccbcbabbaabbbaabccc
+aabaacababaaabbaabcbabaaabbaabacbbaaababbacbaaacbabbbaabbacbabbaabbaaacbaacbabbabacabaaabbaabbbabaccaaabaacbabbaabbabaaaccc
+aababbaabbaaabacabaacbaababbbaaababbacbaaabbcbaaabaacbbaaacabaacbaababbbabbaaacbaaabaacbabbaabbaaababbacabacbbaabbabacbabbcbbaaacbaaabacbbaabacb
+baabaacbabbaabbbabaaacbaa
+aabaacbabbaabcbbaaababbacacbaabcbbaaabbaaababcaabbaacbbcccbbacbbabaabbabacabaacbabbaabbaaaccbcabbcbbaabbabacc
+aabaaacbaababbbbabaaccabaacbabbbaababbacbabaaabbbaaababbccc
+aabaacbabbaabbaaababbaaabaacabcbcccaababcaabbacbbcccbbacbaaababaacbabbbaaabaccaaabaabbabaacbabbaabbaabaaacabacbaabcccabbccc
+aabaaacbaabbaaababbaccababbaabbacccaab
+aabaacbabbaababaaabbaabbbaabbacabbbaaacc
+aabaacbabbaabbaaabacababbaabbbaaabcacba
+aabaacbaaabaaccbaabacbabcbabbbabaaabccc
